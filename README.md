@@ -1,3 +1,5 @@
+I have learned many things while working on this project, which involves analyzing YouTube comments.
+
 First, install Python, and then install all the libraries needed for our project as mentioned below.
 
   --pip install pandas
